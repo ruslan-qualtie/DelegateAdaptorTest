@@ -1,0 +1,7 @@
+workspace: DelegateAdaptorTest.xcworkspace
+
+schemes:
+  - DelegateAdaptorTest
+
+targets:
+  - DelegateAdaptorTest

@@ -1,0 +1,16 @@
+PODS:
+  - Periphery (2.7.1)
+
+DEPENDENCIES:
+  - Periphery
+
+SPEC REPOS:
+  trunk:
+    - Periphery
+
+SPEC CHECKSUMS:
+  Periphery: c7254ce49bae8cb87469f39a023ec0af865e6cd4
+
+PODFILE CHECKSUM: 27979fa980b5fc4f4273299bee27c72b9e0ab676
+
+COCOAPODS: 1.10.1
